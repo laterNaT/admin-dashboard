@@ -209,6 +209,11 @@ body {
   grid-column: 2;
 }
 
+.trending p:last-of-type {
+  font-size: 10px;
+  text-align: center;
+}
+
 .trending-user {
   display: flex;
   gap: 20px;
